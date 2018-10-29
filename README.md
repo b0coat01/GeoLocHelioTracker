@@ -1,6 +1,6 @@
 # GeoLocHelioTracker
 
-SUMMARY:
+## SUMMARY:
 
 This Python script is intended to calculate the angle of the sun for an observer at any 
 particular time of day and time of year.
@@ -18,7 +18,7 @@ Raspberry Pi or similar to control solar panel heliostats.
 
 
 
-DEPENDENCIES:
+## DEPENDENCIES:
 
 [1] math
 [2] datetime
@@ -26,14 +26,14 @@ DEPENDENCIES:
 [4] tkinter
 
 
-FUTURE DEVELOPMENT:
+## FUTURE DEVELOPMENT:
 
 Version 3 under development will request panel efficiency to calculate annual
 estimated yield for N-number of panels (this is just a simple integration
 beyound the current calculation).
 
 
-
+## AUTHOR:
 
 Brandon Coats
 
